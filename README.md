@@ -33,15 +33,65 @@ All tutorial recordings and topic-specific walkthroughs are organized on YouTube
 | **Sheet 04** | Matched Filters | [Sheet](tutorials/sheet-04/sheet.pdf) \| [Notes](tutorials/sheet-04/notes.pdf) \| [Solution](tutorials/sheet-04/solution.pdf) | [Watch](https://youtu.be/J90OKJYdynM?si=wo-Fiz4jKUkfL2mB) | [Watch](https://youtu.be/o1G6b64uLmA?si=7bv-7gddIPvhY5q3) |
 ---
 
-## 🛠️ Course Assignments
+## 🛠️ Assignments
 
-The course assignments specification, guidelines, and deliverables are maintained in the [`assignments/`](./assignments) directory:
+### Schedule & Deadlines
 
-- ⏰ **Key Deadlines:**
-  - Assignment 1: *[Saturday, November 14th, 2026 at 11:59 PM]*
-  - Assignment 2: *[Saturday, November 21st, 2026 at 11:59 PM]*
-  - Assignment 3: *[Saturday, November 28th, 2026 at 11:59 PM]*
+| Assignment | Topic | Due Date | Specification |
+| :--- | :--- | :--- | :--- | 
+| **Assignment 1** | Random Processes | *[Saturday, November 14th, 2026, 11:59 PM]* | [Read](assignments/assignment-01/specification.pdf) |
+| **Assignment 2** | Random Processes | *[Saturday, November 21st, 2026, 11:59 PM]* | [Read](assignments/assignment-02/specification.pdf) |
+| **Assignment 3** | Random Processes | *[Saturday, November 28th, 2026, 11:59 PM]* | [Read](assignments/assignment-03/specification.pdf) |
 
+> **Late Submission Policy:** Submissions submitted after the deadline will incur a penalty of *[e.g., 10% per 24 hours]*. Submissions will not be accepted more than *[e.g., 72 hours]* late.
+
+---
+
+### Submission Requirements
+
+1. **Report Format & Content**[cite: 1]
+   - Submit a single `.pdf` report covering all parts sequentially in the exact order requested in the assignment[cite: 1].
+   - The report must include:
+     - All required numerical results, analytical comments, and answers to questions[cite: 1].
+     - All required figures, plots, and waveforms[cite: 1].
+     - All theoretical sketches and derivations (if required)[cite: 1].
+     - Complete source code placed in an **Appendix** at the end of the report, clearly commented to explain variables and logic[cite: 1].
+
+2. **Figure Standards**[cite: 1]
+   - All figures and plots must be clear and readable[cite: 1].
+   - Every figure must have a clear legend, proper axis labels, and legible font sizes[cite: 1].
+
+3. **Writing & Typography**[cite: 1]
+   - All comments and written answers must be clearly typed (scanned handwritten text is not accepted)[cite: 1].
+   - Explanations must remain concise[cite: 1].
+   - Maintain a clean, organized layout throughout your document[cite: 1].
+   - You are solely responsible for ensuring the clarity and visibility of all figures, code, and text[cite: 1].
+
+4. **File Naming Standard**
+   - Name your PDF submission using the following format:
+     ```text
+     EECG325_AssignXX_StudentID.pdf
+     ```
+     
+5. **Delivery**
+   - Send your PDF submission by email to h.elmenier@eng.cu.edu.eg
+
+---
+
+### Pre-Submission Checklist
+
+- [ ] Single `.pdf` format covering all questions in order[cite: 1].
+- [ ] All plots include labeled axes, units, legends, and legible fonts[cite: 1].
+- [ ] Comments and answers are typed[cite: 1].
+- [ ] Fully commented source code attached in an Appendix[cite: 1].
+- [ ] File named according to the template above.
+
+---
+
+> [!CAUTION]
+> **Academic Integrity & Plagiarism Policy**[cite: 1]
+> Submissions must be entirely your own individual work[cite: 1]. Students must not copy any material from external references without proper citation, or from any other project or colleague[cite: 1]. Automated plagiarism screening will be carried out; any identified plagiarism will result in an immediate failing grade (`0` / invalid)[cite: 1].
+> 
 ---
 
 ## ❓ Asking Questions & Getting Help
