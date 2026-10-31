@@ -47,23 +47,23 @@ All tutorial recordings and topic-specific walkthroughs are organized on YouTube
 
 ### Submission Requirements
 
-1. **Report Format & Content**[cite: 1]
-   - Submit a single `.pdf` report covering all parts sequentially in the exact order requested in the assignment[cite: 1].
+1. **Report Format & Content**
+   - Submit a single `.pdf` report covering all parts sequentially in the exact order requested in the assignment.
    - The report must include:
-     - All required numerical results, analytical comments, and answers to questions[cite: 1].
-     - All required figures, plots, and waveforms[cite: 1].
-     - All theoretical sketches and derivations (if required)[cite: 1].
-     - Complete source code placed in an **Appendix** at the end of the report, clearly commented to explain variables and logic[cite: 1].
+     - All required numerical results, analytical comments, and answers to questions.
+     - All required figures, plots, and waveforms.
+     - All theoretical sketches and derivations (if required).
+     - Complete source code placed in an **Appendix** at the end of the report, clearly commented to explain variables and logic.
 
-2. **Figure Standards**[cite: 1]
-   - All figures and plots must be clear and readable[cite: 1].
-   - Every figure must have a clear legend, proper axis labels, and legible font sizes[cite: 1].
+2. **Figure Standards**
+   - All figures and plots must be clear and readable.
+   - Every figure must have a clear legend, proper axis labels, and legible font sizes.
 
-3. **Writing & Typography**[cite: 1]
-   - All comments and written answers must be clearly typed (scanned handwritten text is not accepted)[cite: 1].
-   - Explanations must remain concise[cite: 1].
-   - Maintain a clean, organized layout throughout your document[cite: 1].
-   - You are solely responsible for ensuring the clarity and visibility of all figures, code, and text[cite: 1].
+3. **Writing & Typography**
+   - All comments and written answers must be clearly typed (scanned handwritten text is not accepted).
+   - Explanations must remain concise.
+   - Maintain a clean, organized layout throughout your document.
+   - You are solely responsible for ensuring the clarity and visibility of all figures, code, and text.
 
 4. **File Naming Standard**
    - Name your PDF submission using the following format:
@@ -76,15 +76,15 @@ All tutorial recordings and topic-specific walkthroughs are organized on YouTube
 
 ### Pre-Submission Checklist
 
-- [ ] Single `.pdf` format covering all questions in order[cite: 1].
-- [ ] All plots include labeled axes, units, legends, and legible fonts[cite: 1].
-- [ ] Comments and answers are typed[cite: 1].
-- [ ] Fully commented source code attached in an Appendix[cite: 1].
+- [ ] Single `.pdf` format covering all questions in order.
+- [ ] All plots include labeled axes, units, legends, and legible fonts.
+- [ ] Comments and answers are typed.
+- [ ] Fully commented source code attached in an Appendix.
 - [ ] File named according to the template above.
 
 > [!CAUTION]
-> **Academic Integrity & Plagiarism Policy**[cite: 1]
-> Submissions must be entirely your own individual work[cite: 1]. Students must not copy any material from external references without proper citation, or from any other project or colleague[cite: 1]. Automated plagiarism screening will be carried out; any identified plagiarism will result in an immediate failing grade (`0` / invalid)[cite: 1].
+> **Academic Integrity & Plagiarism Policy**
+> Submissions must be entirely your own individual work. Students must not copy any material from external references without proper citation, or from any other project or colleague. Automated plagiarism screening will be carried out; any identified plagiarism will result in an immediate failing grade (`0` / invalid).
 > 
 ---
 
