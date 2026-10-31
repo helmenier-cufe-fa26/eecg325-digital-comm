@@ -73,14 +73,10 @@ All tutorial recordings and topic-specific walkthroughs are organized on YouTube
      
 5. **Delivery**
    - Send your PDF submission by email to h.elmenier@eng.cu.edu.eg
-
-### Pre-Submission Checklist
-
-- [ ] Single `.pdf` format covering all questions in order.
-- [ ] All plots include labeled axes, units, legends, and legible fonts.
-- [ ] Comments and answers are typed.
-- [ ] Fully commented source code attached in an Appendix.
-- [ ] File named according to the template above.
+   - Name the email's subject using the following format:
+     ```text
+     [EECG325] FA'26 - AssignmentXX - StudentID
+     ```
 
 > [!CAUTION]
 > **Academic Integrity & Plagiarism Policy**
