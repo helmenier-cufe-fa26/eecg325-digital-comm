@@ -39,9 +39,9 @@ All tutorial recordings and topic-specific walkthroughs are organized on YouTube
 
 | Assignment | Topic | Due Date | Specification |
 | :--- | :--- | :--- | :--- | 
-| **Assignment 1** | Random Processes | *[Saturday, November 14th, 2026, 11:59 PM]* | [Read](assignments/assignment-01/specification.pdf) |
-| **Assignment 2** | Matched Filters | *[Saturday, November 21st, 2026, 11:59 PM]* | [Read](assignments/assignment-02/specification.pdf) |
-| **Assignment 3** | Signal Space Representation | *[Saturday, November 28th, 2026, 11:59 PM]* | [Read](assignments/assignment-03/specification.pdf) |
+| **Assignment 1** | Random Processes | *[Saturday, November 21st, 2026, 11:59 PM]* | [Read](assignments/assignment-01/specification.pdf) |
+| **Assignment 2** | Matched Filters | *[Saturday, November 28th, 2026, 11:59 PM]* | [Read](assignments/assignment-02/specification.pdf) |
+| **Assignment 3** | Signal Space Representation | *[Saturday, December 5th, 2026, 11:59 PM]* | [Read](assignments/assignment-03/specification.pdf) |
 
 > **Late Submission Policy:** Submissions submitted after the deadline will incur a penalty of *[e.g., 10% per 24 hours]*. Submissions will not be accepted more than *[e.g., 72 hours]* late.
 
